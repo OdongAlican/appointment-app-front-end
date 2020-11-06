@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/appointment-app-front-end/static/css/main.1698071b.chunk.css",
+    "main.js": "/appointment-app-front-end/static/js/main.30b21ec7.chunk.js",
+    "main.js.map": "/appointment-app-front-end/static/js/main.30b21ec7.chunk.js.map",
+    "runtime-main.js": "/appointment-app-front-end/static/js/runtime-main.fcb86d83.js",
+    "runtime-main.js.map": "/appointment-app-front-end/static/js/runtime-main.fcb86d83.js.map",
+    "static/css/2.d8012c84.chunk.css": "/appointment-app-front-end/static/css/2.d8012c84.chunk.css",
+    "static/js/2.235fc876.chunk.js": "/appointment-app-front-end/static/js/2.235fc876.chunk.js",
+    "static/js/2.235fc876.chunk.js.map": "/appointment-app-front-end/static/js/2.235fc876.chunk.js.map",
+    "index.html": "/appointment-app-front-end/index.html",
+    "static/css/2.d8012c84.chunk.css.map": "/appointment-app-front-end/static/css/2.d8012c84.chunk.css.map",
+    "static/css/main.1698071b.chunk.css.map": "/appointment-app-front-end/static/css/main.1698071b.chunk.css.map",
+    "static/js/2.235fc876.chunk.js.LICENSE.txt": "/appointment-app-front-end/static/js/2.235fc876.chunk.js.LICENSE.txt",
+    "static/media/facebook.a4c58004.png": "/appointment-app-front-end/static/media/facebook.a4c58004.png",
+    "static/media/google.1c8e3d5e.jpg": "/appointment-app-front-end/static/media/google.1c8e3d5e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fcb86d83.js",
+    "static/css/2.d8012c84.chunk.css",
+    "static/js/2.235fc876.chunk.js",
+    "static/css/main.1698071b.chunk.css",
+    "static/js/main.30b21ec7.chunk.js"
+  ]
+}
